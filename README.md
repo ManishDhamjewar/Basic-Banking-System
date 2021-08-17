@@ -1,6 +1,7 @@
 # Basic-Banking-System
 
-It's a website where it demonstrates transferring money in a simple hassle free way. There are mainly two options\n
+It's a website where it demonstrates transferring money in a simple hassle free way. There are mainly two options
+
 Transfer Money : To tansfer the money into customer's account. To view the bank balance or customer details. 
 
 Transaction Details : To see the transaction history.
@@ -12,7 +13,6 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 
 # How To Run The Project?
 To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).
-
 After Starting Apache and MySQL in XAMPP, follow the following steps.
 
 1st Step: Extract file
