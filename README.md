@@ -12,7 +12,7 @@ Start with a dummy data for upto 10 customers. Customers table with basic fields
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 # How To Run The Project?
-To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).
+To run this project, you must have installed a virtual server i.e XAMPP on your PC (for Windows).                                                                                    
 After Starting Apache and MySQL in XAMPP, follow the following steps.
 
 1st Step: Extract file
