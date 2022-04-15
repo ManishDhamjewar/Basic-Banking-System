@@ -35,7 +35,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: php-app
-          path: Basic-Banking-System
+          path: .
 
   deploy:
     runs-on: ubuntu-latest
@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'banking-system'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69D59DA558EF451EB3FA199F959CF9BA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3A21110FE184B44A338C26363C9E5E2 }}
           package: .
